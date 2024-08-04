@@ -1,0 +1,52 @@
+p {
+    min-height:113px;
+    transform:translatex(93px) translatey(12px);
+    width:29% !important;
+
+}
+h1 {
+    position:relative;
+    right:-121px;
+    left:97px;
+    font-family:Tahoma,Verdana,Segoe,sans-serif;
+    font-size:34px;
+    transform:translatex(227px) translatey(3px);
+    width:456px;
+    text-align:center;
+}
+body {
+    background-color:#e8d5c4;
+}
+
+img {
+    display:inline-block;
+    transform:translatex(428px) translatey(0px);
+    }
+
+input {
+    width: 90%;
+}
+
+form {
+    width:514px;
+    transform:translatex(50px) translatey(14px);
+}
+
+.formulario {
+    
+    padding: 10px 10px 20px 5px;
+}
+.formulario_input {
+    padding: 20px;
+}
+.formulario_submit
+{
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.box {
+    background-color: aqua;
+    height: 150px;
+    width: 150px;
+    margin: 30px;
+}
